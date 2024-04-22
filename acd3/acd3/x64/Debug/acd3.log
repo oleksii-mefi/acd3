@@ -1,0 +1,7 @@
+﻿  acd3.cpp
+C:\Users\Oleksii\Desktop\acd3\acd3\acd3.cpp(83,28): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+C:\Users\Oleksii\Desktop\acd3\acd3\acd3.cpp(93,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Oleksii\Desktop\acd3\acd3\acd3.cpp(98,25): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Oleksii\Desktop\acd3\acd3\acd3.cpp(101,19): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\Oleksii\Desktop\acd3\acd3\acd3.cpp(104,19): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  acd3.vcxproj -> C:\Users\Oleksii\Desktop\acd3\x64\Debug\acd3.exe
